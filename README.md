@@ -1,5 +1,5 @@
 # Solidity-First-Project
-Deploy contract and make changes to him after deployment
+Deploy contract and make changes to it after deployment
 
 Tools and Languages:
 Solidity and Python
