@@ -14,8 +14,13 @@ To use this:
 -change my_address and private_key values
 -run the app
 
-P.S: you might install the following:
+P.S: you might install the following: 
+
 pip install -r requirements.txt
+
 pip install py-solc-x
+
 pip install web3
+
 pip install python-dotenv 
+
