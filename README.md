@@ -10,9 +10,13 @@ Ganache
 To use this:
 
 -run ganache
+
 -copy in ganache an Address + priavte key
+
 -change my_address and private_key values
+
 -run the app
+
 
 P.S: you might install the following: 
 
